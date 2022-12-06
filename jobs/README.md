@@ -7,6 +7,17 @@ commit, git push, and create a pull request on GitHub.
 __Be advised that Job Openings older than 3 months will be removed for the sake
 of keeping the board up to date. Feel free to repost.__
 
+## Junior / Mid / Senior Web Developer (On-site) @ [SpecialOne](https://www.specialone.gr/)
+H εταιρεία SpecialOne (specialone.gr) αναζητάει τον επόμενο Web Developer (Junior, Mid, Senior).
+
+Επιθυμητές γνώσεις html5, php, mySql, css, javascript ή ανάλογες για εύκολη προσαρμογή σε αυτές.
+
+Η εργασία απαιτεί φυσική παρουσία στο Ηράκλειο Κρήτης.
+
+Βιογραφικά στο info@specialone.gr
+
+* PubDate: 6/12/2022
+
 ## Frontend Developer (Remote) @ [Weave](https://weaveeducation.com/)
 Weave provides a centralized system for managing higher education assessment and accreditation that enables collaboration and helps create a campus-wide culture of continuous improvement.
 
